@@ -1,12 +1,12 @@
-#Personal Blog
+# Personal Blog
 This week's Challenge requires you to modify starter code to complete a personal blog. It includes building a content form, dynamically rendering blog posts, and implementing a light/dark mode toggle. As you code, you'll gain practical JavaScript experience, explore the Document Object Model's power, and set the stage for more advanced tasks.
 
-#User Story
+# User Story
 AS A marketing student
 I WANT a personal blog
 SO THAT I can showcase my thoughts and experiences.
 
-#Acceptance Criteria
+# Acceptance Criteria
 GIVEN a personal blog
 WHEN I load the app
 THEN I am presented with the landing page containing a form with labels and inputs for username, blog title, and blog content
@@ -29,10 +29,10 @@ THEN I am presented with a JSON array of blog post objects, each including the p
 WHEN I take a closer look at a single blog entry in the list
 THEN I can see the title, the content, and the author of the post
 
-#Grading Requirements
+# Grading Requirements
 This Challenge is graded based on the following criteria:
 
-#Landing Page 35%
+# Landing Page 35%
 The landing page should contain the following HTML (5 pts):
 A form element that contains the following:
 An input element whose label and id are username.
@@ -45,31 +45,31 @@ Store form data in local storage when submitted with valid data. (10 pts)
 Blog post objects in local storage must contain username, title, and content properties. (5 pts)
 Redirect to the blog page when valid data is submitted. (5 pts)
 
-#Blog Page HTML 10%
+# Blog Page HTML 10%
 The blog page must contain the following HTML:
 A header element that contains (5 pts):
 A light mode/dark mode toggle. The toggle element can be anything you like, but the id must be toggle.
 A "Back" button with an id of back.
 A main element. (5 pts)
 
-#Toggle Logic 20%
+# Toggle Logic 20%
 When the light mode/dark mode toggle is clicked:
 The styles of the page change to match the mode. (10 pts)
 The --circle-color attribute changes to match the mode. (10 pts)
 
-#Blog Post Logic 35%
+# Blog Post Logic 35%
 The Blog Post page must perform the following:
 Render blog posts to the page with data pulled from localStorage. (10 pts)
 Rendered blog posts must include the author's username, and the post's title and content. (10 pts)
 If no blog posts are found in localStorage, display a message that states: "No Blog posts yet...". (10 pts)
 Redirect the user to the landing page when the "Back" button is clicked. (5 pts)
 
-#How to Submit the Challenge
+# How to Submit the Challenge
 Follow the link below to open this auto-graded assignment in a new tab. Once you have completed the assignment on the Ed platform, submit it, and you will return to Bootcamp Spot.
 
-#note
+# note
 You are allowed to miss up to two Challenge assignments and still earn your certificate. If you complete all Challenge assignments, your lowest two grades will be dropped. If you wish to skip this assignment, click Next, and move on to the next Module.
 
-#important
+# important
 No matter how difficult the course becomes, you must always turn in original work. Plagiarism is not tolerated. If your instructional or support staff determine that you have plagiarized work, your Student Success Advisor will determine the appropriate course of action based on university policy. Such actions may include, but are not limited to, a documented plagiarism discussion, an incomplete or failing grade assignment, or ineligibility for graduation.
 
