@@ -73,3 +73,14 @@ You are allowed to miss up to two Challenge assignments and still earn your cert
 # important
 No matter how difficult the course becomes, you must always turn in original work. Plagiarism is not tolerated. If your instructional or support staff determine that you have plagiarized work, your Student Success Advisor will determine the appropriate course of action based on university policy. Such actions may include, but are not limited to, a documented plagiarism discussion, an incomplete or failing grade assignment, or ineligibility for graduation.
 
+---
+
+## Contact
+
+### [**Alex Menendez**](https://alex-menendez.onrender.com/) – Junior Developer, Junior Project Manager, and Junior UI/UX Designer
+
+- [**Portfolio**](https://alex-menendez.onrender.com/)
+- **LinkedIn**: [in/alex-d-menendez](https://www.linkedin.com/in/alex-d-menendez/)
+- **GitHub**: [alexis-menendez](https://github.com/alexis-menendez)
+- **Email**: [alexis.menendez@austincc.edu](https://alex-menendez.onrender.com/contact)
+
