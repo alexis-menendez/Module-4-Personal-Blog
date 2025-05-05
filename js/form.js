@@ -1,3 +1,5 @@
+// Module-4-Personal-Blog/js/form.js
+
 // Select the form element and error message element
 const form = document.querySelector('form');
 const errorMessage = document.getElementById('error');
