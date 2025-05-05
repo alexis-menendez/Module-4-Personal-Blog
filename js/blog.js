@@ -1,3 +1,5 @@
+// Module-4-Personal-Blog/js/blog.js
+
 // Select main element and back button element
 const mainElement = document.querySelector('main');
 const backButton = document.getElementById('back');
