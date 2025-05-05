@@ -1,3 +1,5 @@
+// Module-4-Personal-Blog/js/logic.js
+
 // Toggle light/dark mode function
 function toggleMode() {
   const body = document.body;
