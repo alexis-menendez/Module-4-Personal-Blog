@@ -1,4 +1,4 @@
-// Module-4-Personal-Blog/js/logic.js
+// Module-4-Personal-Blog/assets/js/logic.js
 
 // Toggle light/dark mode function
 function toggleMode() {
